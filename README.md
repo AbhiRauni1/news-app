@@ -10,7 +10,7 @@ This is a simple news aggregator built with React JS. This makes use of [newsapi
 ## Usage
 1. First, clone the repository with the following command and then enter the directory.
 ```
-git clone 
+git clone https://github.com/AbhiRauni1/news-app.git
 cd news-app
 ```
 2. We made use of a third party API to obtain the news. It can be accessed via [News API](https://newsapi.org/). Create an account here and get an API key to use in the project.
